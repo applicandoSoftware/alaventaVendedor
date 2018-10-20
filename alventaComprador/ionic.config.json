@@ -1,0 +1,8 @@
+{
+  "name": "alventaComprador",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
